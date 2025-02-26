@@ -80,4 +80,8 @@ body {
   footer a:hover {
     color: #4b8f8c; 
   }
+
+  img {
+    width: 50%;
+  }
   
