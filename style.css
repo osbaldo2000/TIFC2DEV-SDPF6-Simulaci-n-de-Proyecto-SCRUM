@@ -76,7 +76,7 @@ main {
 }
 
 footer {
-  position: fixed;
+  position:fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -90,3 +90,7 @@ footer {
   text-size-adjust: 6rem;
   color:#2c6e49
   }
+
+.logo {
+  width: 20%;
+}
